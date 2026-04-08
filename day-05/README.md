@@ -4,7 +4,7 @@
 
 What was the goal for today?
 
-My goal for today was to learn how to manipulate Files and Directory in linux, trying to understand how files can be move from one files to another how copy a file to a directory and still retain the content in the previous file. 
+My goal for today was to learn how to manipulate Files and Directory in linux, trying to understand how files can be move from one files to another, how to copy a file to a directory and still retain the content in the previous file. 
 
 
 ## What I Learned
