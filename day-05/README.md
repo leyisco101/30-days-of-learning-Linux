@@ -44,7 +44,9 @@ cp = Copy (Duplicate; original stays)
 
 ## Key Takeaways
 
-Using these linus commands is actually a very good way of making a directory, file, moving from one file to another also copying. I actually learnt alot especially knowing the differences between copy and move.
+Using these linus commands is actually a very good way of making a directory, file, moving from one file to another also copying. 
+
+I actually learnt alot especially knowing the differences between copy and move.
 
 
 
