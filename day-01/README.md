@@ -1,4 +1,4 @@
-# Day 01 - [Topic]
+# Day 01 - [Introduction to Linux]
 
 ## Objective
 To learn the Linux Fundamentals and Linux commands, also to learn how to navigate the file system in Linux.
